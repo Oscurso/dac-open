@@ -1,0 +1,8 @@
+$ ./dac "design an authentication module"
+
+[INFO] Starting deterministic cognition process...
+[STEP 1] Reason: Define purpose → Output: Secure user access
+[STEP 2] Reason: Identify entities → Output: User, Session, Token
+[STEP 3] Reason: Determine deterministic flow → Output: Login → Validate → Token → Expire
+[STEP 4] Reason: Finalize structure → Output: auth_module_schema.sql
+[SUCCESS] Reasoning completed successfully.
