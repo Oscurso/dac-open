@@ -305,17 +305,17 @@ curl -X POST https://api.oscurso.dev/api/v1/cognition/execute \
 
 ## 18. Reproducibility Checklist
 
-☐ Define complete Structure \(S=(E,R,C)\)
-☐ Specify deterministic Ruleset \(\mathcal{R}\)
-☐ Implement constraint validation (assert \(C(\sigma')=\text{true}\))
-☐ Generate **cryptographic** hash-chain (ensure \(h_i\) chains \(h_{i-1}\))
-☐ Freeze external inputs (L2 Temporal Isolation)
-☐ Store full lineage **tuples** \((h, \sigma, r, \sigma')\)
-☐ Provide verification API (for lineage replay)
-☐ Document failure modes & recovery
-☐ Test cross-environment reproduction
-☐ **Implement governance lifecycle (validate → sign → release)**
-☐ Publish **signed** ruleset versions and checksums
+- [ ] Define complete Structure \(S=(E,R,C)\)
+- [ ] Specify deterministic Ruleset \(\mathcal{R}\)
+- [ ] Implement constraint validation (assert \(C(\sigma')=\text{true}\))
+- [ ] Generate **cryptographic** hash-chain (ensure \(h_i\) chains \(h_{i-1}\))
+- [ ] Freeze external inputs (L2 Temporal Isolation)
+- [ ] Store full lineage **tuples** \((h, \sigma, r, \sigma')\)
+- [ ] Provide verification API (for lineage replay)
+- [ ] Document failure modes & recovery
+- [ ] Test cross-environment reproduction
+- [ ] **Implement governance lifecycle (validate → sign → release)**
+- [ ] Publish **signed** ruleset versions and checksums
 
 ---
 
