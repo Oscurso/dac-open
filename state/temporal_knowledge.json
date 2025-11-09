@@ -1,0 +1,267 @@
+{
+  "temporal_patterns": [
+    {
+      "antecedent": "concept_taught",
+      "consequent": "concept_taught",
+      "delay_mean": 20.73329684615385,
+      "delay_std": 12.681975880981309,
+      "confidence": 0.5,
+      "occurrences": 65,
+      "time_scale": "immediate",
+      "last_observed": "2025-11-09T04:57:41.150830",
+      "stability_score": 0.38835756162458057,
+      "prediction_accuracy": 1.0,
+      "predictions_made": 0,
+      "predictions_correct": 0
+    },
+    {
+      "antecedent": "concept_taught",
+      "consequent": "causality_taught",
+      "delay_mean": 53.50203644755245,
+      "delay_std": 21.738302217858465,
+      "confidence": 0.5,
+      "occurrences": 143,
+      "time_scale": "immediate",
+      "last_observed": "2025-11-09T04:58:32.115811",
+      "stability_score": 0.5936996540529448,
+      "prediction_accuracy": 1.0,
+      "predictions_made": 0,
+      "predictions_correct": 0
+    },
+    {
+      "antecedent": "causality_taught",
+      "consequent": "causality_taught",
+      "delay_mean": 18.78482084615385,
+      "delay_std": 11.466015453778637,
+      "confidence": 0.5,
+      "occurrences": 65,
+      "time_scale": "immediate",
+      "last_observed": "2025-11-09T04:58:32.115811",
+      "stability_score": 0.3896452251046484,
+      "prediction_accuracy": 1.0,
+      "predictions_made": 0,
+      "predictions_correct": 0
+    },
+    {
+      "antecedent": "causality_taught",
+      "consequent": "query_causality_existence",
+      "delay_mean": 30.416311727272728,
+      "delay_std": 13.588811528361004,
+      "confidence": 0.5,
+      "occurrences": 11,
+      "time_scale": "immediate",
+      "last_observed": "2025-11-09T04:58:37.090251",
+      "stability_score": 0.5532540268449488,
+      "prediction_accuracy": 1.0,
+      "predictions_made": 0,
+      "predictions_correct": 0
+    },
+    {
+      "antecedent": "concept_taught",
+      "consequent": "query_causality_existence",
+      "delay_mean": 83.78188081818182,
+      "delay_std": 15.046676214924833,
+      "confidence": 0.5,
+      "occurrences": 11,
+      "time_scale": "short",
+      "last_observed": "2025-11-09T04:58:37.090251",
+      "stability_score": 0.8204087032101726,
+      "prediction_accuracy": 1.0,
+      "predictions_made": 0,
+      "predictions_correct": 0
+    },
+    {
+      "antecedent": "causality_taught",
+      "consequent": "query_causality_wisdom",
+      "delay_mean": 34.45617372727273,
+      "delay_std": 13.588811528361004,
+      "confidence": 0.5,
+      "occurrences": 11,
+      "time_scale": "immediate",
+      "last_observed": "2025-11-09T04:58:41.130113",
+      "stability_score": 0.6056318595391499,
+      "prediction_accuracy": 1.0,
+      "predictions_made": 0,
+      "predictions_correct": 0
+    },
+    {
+      "antecedent": "concept_taught",
+      "consequent": "query_causality_wisdom",
+      "delay_mean": 87.82174281818183,
+      "delay_std": 15.046676214924826,
+      "confidence": 0.5,
+      "occurrences": 11,
+      "time_scale": "short",
+      "last_observed": "2025-11-09T04:58:41.130113",
+      "stability_score": 0.8286699352344786,
+      "prediction_accuracy": 1.0,
+      "predictions_made": 0,
+      "predictions_correct": 0
+    }
+  ],
+  "timeline": [
+    {
+      "concept": "concept_taught",
+      "timestamp": "2025-11-09T04:56:49.741383",
+      "duration": null,
+      "intensity": 1.0
+    },
+    {
+      "concept": "concept_taught",
+      "timestamp": "2025-11-09T04:56:53.829962",
+      "duration": null,
+      "intensity": 1.0
+    },
+    {
+      "concept": "concept_taught",
+      "timestamp": "2025-11-09T04:56:58.260759",
+      "duration": null,
+      "intensity": 1.0
+    },
+    {
+      "concept": "concept_taught",
+      "timestamp": "2025-11-09T04:57:03.009338",
+      "duration": null,
+      "intensity": 1.0
+    },
+    {
+      "concept": "concept_taught",
+      "timestamp": "2025-11-09T04:57:08.935777",
+      "duration": null,
+      "intensity": 1.0
+    },
+    {
+      "concept": "concept_taught",
+      "timestamp": "2025-11-09T04:57:14.731108",
+      "duration": null,
+      "intensity": 1.0
+    },
+    {
+      "concept": "concept_taught",
+      "timestamp": "2025-11-09T04:57:18.696294",
+      "duration": null,
+      "intensity": 1.0
+    },
+    {
+      "concept": "concept_taught",
+      "timestamp": "2025-11-09T04:57:23.393986",
+      "duration": null,
+      "intensity": 1.0
+    },
+    {
+      "concept": "concept_taught",
+      "timestamp": "2025-11-09T04:57:28.007733",
+      "duration": null,
+      "intensity": 1.0
+    },
+    {
+      "concept": "concept_taught",
+      "timestamp": "2025-11-09T04:57:31.929724",
+      "duration": null,
+      "intensity": 1.0
+    },
+    {
+      "concept": "concept_taught",
+      "timestamp": "2025-11-09T04:57:35.856008",
+      "duration": null,
+      "intensity": 1.0
+    },
+    {
+      "concept": "concept_taught",
+      "timestamp": "2025-11-09T04:57:41.150830",
+      "duration": null,
+      "intensity": 1.0
+    },
+    {
+      "concept": "causality_taught",
+      "timestamp": "2025-11-09T04:57:46.194510",
+      "duration": null,
+      "intensity": 1.0
+    },
+    {
+      "concept": "causality_taught",
+      "timestamp": "2025-11-09T04:57:49.759246",
+      "duration": null,
+      "intensity": 1.0
+    },
+    {
+      "concept": "causality_taught",
+      "timestamp": "2025-11-09T04:57:53.368620",
+      "duration": null,
+      "intensity": 1.0
+    },
+    {
+      "concept": "causality_taught",
+      "timestamp": "2025-11-09T04:57:57.836383",
+      "duration": null,
+      "intensity": 1.0
+    },
+    {
+      "concept": "causality_taught",
+      "timestamp": "2025-11-09T04:58:01.421963",
+      "duration": null,
+      "intensity": 1.0
+    },
+    {
+      "concept": "causality_taught",
+      "timestamp": "2025-11-09T04:58:06.262528",
+      "duration": null,
+      "intensity": 1.0
+    },
+    {
+      "concept": "causality_taught",
+      "timestamp": "2025-11-09T04:58:10.716510",
+      "duration": null,
+      "intensity": 1.0
+    },
+    {
+      "concept": "causality_taught",
+      "timestamp": "2025-11-09T04:58:15.388811",
+      "duration": null,
+      "intensity": 1.0
+    },
+    {
+      "concept": "causality_taught",
+      "timestamp": "2025-11-09T04:58:19.990550",
+      "duration": null,
+      "intensity": 1.0
+    },
+    {
+      "concept": "causality_taught",
+      "timestamp": "2025-11-09T04:58:24.267963",
+      "duration": null,
+      "intensity": 1.0
+    },
+    {
+      "concept": "causality_taught",
+      "timestamp": "2025-11-09T04:58:28.206248",
+      "duration": null,
+      "intensity": 1.0
+    },
+    {
+      "concept": "causality_taught",
+      "timestamp": "2025-11-09T04:58:32.115811",
+      "duration": null,
+      "intensity": 1.0
+    },
+    {
+      "concept": "query_causality_existence",
+      "timestamp": "2025-11-09T04:58:37.090251",
+      "duration": null,
+      "intensity": 1.0
+    },
+    {
+      "concept": "query_causality_wisdom",
+      "timestamp": "2025-11-09T04:58:41.130113",
+      "duration": null,
+      "intensity": 1.0
+    }
+  ],
+  "statistics": {
+    "total_events": 26,
+    "total_patterns": 7,
+    "concept_count": 4,
+    "insights_pending": 10,
+    "predictions_pending": 0
+  }
+}

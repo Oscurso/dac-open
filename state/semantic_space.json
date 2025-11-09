@@ -1,0 +1,614 @@
+{
+  "dimensions": [
+    {
+      "name": "intensity",
+      "description": "How strong/powerful the concept is",
+      "min_value": -1.0,
+      "max_value": 1.0,
+      "weight": 1.0
+    },
+    {
+      "name": "temporality",
+      "description": "How time-related the concept is",
+      "min_value": -1.0,
+      "max_value": 1.0,
+      "weight": 1.0
+    },
+    {
+      "name": "spatiality",
+      "description": "How space/location-related the concept is",
+      "min_value": -1.0,
+      "max_value": 1.0,
+      "weight": 1.0
+    },
+    {
+      "name": "agency",
+      "description": "How much the concept can act vs be acted upon",
+      "min_value": -1.0,
+      "max_value": 1.0,
+      "weight": 1.0
+    },
+    {
+      "name": "valence",
+      "description": "Positive/negative emotional charge",
+      "min_value": -1.0,
+      "max_value": 1.0,
+      "weight": 1.0
+    },
+    {
+      "name": "certainty",
+      "description": "How definite/uncertain the concept is",
+      "min_value": -1.0,
+      "max_value": 1.0,
+      "weight": 1.0
+    },
+    {
+      "name": "abstraction",
+      "description": "Abstract vs concrete",
+      "min_value": -1.0,
+      "max_value": 1.0,
+      "weight": 1.0
+    },
+    {
+      "name": "causality",
+      "description": "Potential to cause vs be effect",
+      "min_value": -1.0,
+      "max_value": 1.0,
+      "weight": 1.0
+    },
+    {
+      "name": "sociality",
+      "description": "Social vs individual nature",
+      "min_value": -1.0,
+      "max_value": 1.0,
+      "weight": 1.0
+    },
+    {
+      "name": "vitality",
+      "description": "Living/organic vs inorganic",
+      "min_value": -1.0,
+      "max_value": 1.0,
+      "weight": 1.0
+    }
+  ],
+  "concepts": {
+    "cause": [
+      0.9,
+      0.4,
+      0.1,
+      0.8,
+      0.3,
+      0.7,
+      0.6,
+      0.9,
+      0.3,
+      0.2
+    ],
+    "effect": [
+      0.8,
+      0.5,
+      0.2,
+      0.7,
+      0.2,
+      0.6,
+      0.5,
+      0.8,
+      0.3,
+      0.2
+    ],
+    "time": [
+      0.3,
+      1.0,
+      0.2,
+      0.3,
+      0.1,
+      0.9,
+      0.8,
+      0.4,
+      0.1,
+      0.0
+    ],
+    "change": [
+      0.5,
+      0.8,
+      0.3,
+      0.6,
+      0.2,
+      0.7,
+      0.7,
+      0.7,
+      0.3,
+      0.2
+    ],
+    "force": [
+      0.9,
+      0.2,
+      0.3,
+      0.9,
+      0.1,
+      0.8,
+      0.6,
+      0.8,
+      0.2,
+      0.7
+    ],
+    "energy": [
+      0.8,
+      0.3,
+      0.2,
+      0.8,
+      0.2,
+      0.7,
+      0.5,
+      0.7,
+      0.2,
+      0.6
+    ],
+    "matter": [
+      0.6,
+      0.1,
+      0.5,
+      0.4,
+      0.0,
+      0.3,
+      0.2,
+      0.3,
+      0.0,
+      0.9
+    ],
+    "knowledge": [
+      0.3,
+      0.2,
+      0.0,
+      0.2,
+      0.6,
+      0.9,
+      0.9,
+      0.3,
+      0.7,
+      0.0
+    ],
+    "learning": [
+      0.6,
+      0.6,
+      0.1,
+      0.4,
+      0.7,
+      0.8,
+      0.8,
+      0.6,
+      0.5,
+      0.1
+    ],
+    "understanding": [
+      0.4,
+      0.3,
+      0.0,
+      0.3,
+      0.7,
+      0.9,
+      0.9,
+      0.4,
+      0.6,
+      0.0
+    ],
+    "thought": [
+      0.5,
+      0.4,
+      0.0,
+      0.5,
+      0.5,
+      0.7,
+      0.9,
+      0.5,
+      0.4,
+      0.0
+    ],
+    "existence": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "essence": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "purpose": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "meaning": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "value": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "choice": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "freedom": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "responsibility": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "consequence": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "action": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "intention": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "wisdom": [
+      0.4,
+      0.3,
+      0.0,
+      0.3,
+      0.7,
+      0.9,
+      0.9,
+      0.4,
+      0.6,
+      0.0
+    ]
+  },
+  "metadata": {
+    "cause": {
+      "source": "foundational",
+      "confidence": 1.0,
+      "created_at": 1762664201.8411417,
+      "access_count": 65,
+      "last_accessed": 1762664321.133602,
+      "is_foundational": true,
+      "description": "something that makes something else happen",
+      "learned_from": "system_initialization"
+    },
+    "effect": {
+      "source": "foundational",
+      "confidence": 1.0,
+      "created_at": 1762664201.8411524,
+      "access_count": 65,
+      "last_accessed": 1762664321.1336029,
+      "is_foundational": true,
+      "description": "something that happens as a result of a cause",
+      "learned_from": "system_initialization"
+    },
+    "time": {
+      "source": "foundational",
+      "confidence": 1.0,
+      "created_at": 1762664201.8411584,
+      "access_count": 65,
+      "last_accessed": 1762664321.133603,
+      "is_foundational": true,
+      "description": "the ongoing sequence of events",
+      "learned_from": "system_initialization"
+    },
+    "change": {
+      "source": "foundational",
+      "confidence": 1.0,
+      "created_at": 1762664201.8411627,
+      "access_count": 65,
+      "last_accessed": 1762664321.1336033,
+      "is_foundational": true,
+      "description": "when something becomes different",
+      "learned_from": "system_initialization"
+    },
+    "force": {
+      "source": "foundational",
+      "confidence": 1.0,
+      "created_at": 1762664201.8411684,
+      "access_count": 65,
+      "last_accessed": 1762664321.1336036,
+      "is_foundational": true,
+      "description": "a push or pull that can cause an object to change its motion",
+      "learned_from": "system_initialization"
+    },
+    "energy": {
+      "source": "foundational",
+      "confidence": 1.0,
+      "created_at": 1762664201.8411791,
+      "access_count": 65,
+      "last_accessed": 1762664321.1336038,
+      "is_foundational": true,
+      "description": "the capacity to do work or cause change",
+      "learned_from": "system_initialization"
+    },
+    "matter": {
+      "source": "foundational",
+      "confidence": 1.0,
+      "created_at": 1762664201.8411837,
+      "access_count": 65,
+      "last_accessed": 1762664321.133604,
+      "is_foundational": true,
+      "description": "physical substance that occupies space",
+      "learned_from": "system_initialization"
+    },
+    "knowledge": {
+      "source": "foundational",
+      "confidence": 1.0,
+      "created_at": 1762664201.8411887,
+      "access_count": 65,
+      "last_accessed": 1762664321.1336043,
+      "is_foundational": true,
+      "description": "information and understanding acquired through experience or education",
+      "learned_from": "system_initialization"
+    },
+    "learning": {
+      "source": "foundational",
+      "confidence": 1.0,
+      "created_at": 1762664201.841193,
+      "access_count": 77,
+      "last_accessed": 1762664321.1336045,
+      "is_foundational": true,
+      "description": "the process of acquiring knowledge or skills",
+      "learned_from": "system_initialization"
+    },
+    "understanding": {
+      "source": "foundational",
+      "confidence": 1.0,
+      "created_at": 1762664201.8412004,
+      "access_count": 66,
+      "last_accessed": 1762664321.1336048,
+      "is_foundational": true,
+      "description": "the ability to comprehend and grasp the meaning of something",
+      "learned_from": "system_initialization"
+    },
+    "thought": {
+      "source": "foundational",
+      "confidence": 1.0,
+      "created_at": 1762664201.8412046,
+      "access_count": 65,
+      "last_accessed": 1762664321.1336055,
+      "is_foundational": true,
+      "description": "an idea or mental process",
+      "learned_from": "system_initialization"
+    },
+    "existence": {
+      "source": "user_defined",
+      "confidence": 1.0,
+      "created_at": 1762664209.7413754,
+      "access_count": 129,
+      "last_accessed": 1762664321.133606,
+      "is_foundational": false,
+      "description": "being real",
+      "learned_from": "user_teaching",
+      "timestamp": "2025-11-09T04:56:49.741352",
+      "related_to": []
+    },
+    "essence": {
+      "source": "user_defined",
+      "confidence": 1.0,
+      "created_at": 1762664213.829954,
+      "access_count": 129,
+      "last_accessed": 1762664321.1336064,
+      "is_foundational": false,
+      "description": "fundamental nature",
+      "learned_from": "user_teaching",
+      "timestamp": "2025-11-09T04:56:53.829927",
+      "related_to": []
+    },
+    "purpose": {
+      "source": "user_defined",
+      "confidence": 1.0,
+      "created_at": 1762664218.2607517,
+      "access_count": 128,
+      "last_accessed": 1762664321.133607,
+      "is_foundational": false,
+      "description": "intended function",
+      "learned_from": "user_teaching",
+      "timestamp": "2025-11-09T04:56:58.260724",
+      "related_to": []
+    },
+    "meaning": {
+      "source": "user_defined",
+      "confidence": 1.0,
+      "created_at": 1762664223.0093315,
+      "access_count": 119,
+      "last_accessed": 1762664321.1336076,
+      "is_foundational": false,
+      "description": "significance",
+      "learned_from": "user_teaching",
+      "timestamp": "2025-11-09T04:57:03.009305",
+      "related_to": []
+    },
+    "value": {
+      "source": "user_defined",
+      "confidence": 1.0,
+      "created_at": 1762664228.9357636,
+      "access_count": 115,
+      "last_accessed": 1762664321.133608,
+      "is_foundational": false,
+      "description": "worth",
+      "learned_from": "user_teaching",
+      "timestamp": "2025-11-09T04:57:08.935734",
+      "related_to": []
+    },
+    "choice": {
+      "source": "user_defined",
+      "confidence": 1.0,
+      "created_at": 1762664234.7310991,
+      "access_count": 104,
+      "last_accessed": 1762664321.1336083,
+      "is_foundational": false,
+      "description": "decision",
+      "learned_from": "user_teaching",
+      "timestamp": "2025-11-09T04:57:14.731067",
+      "related_to": []
+    },
+    "freedom": {
+      "source": "user_defined",
+      "confidence": 1.0,
+      "created_at": 1762664238.696286,
+      "access_count": 95,
+      "last_accessed": 1762664321.1336093,
+      "is_foundational": false,
+      "description": "autonomy",
+      "learned_from": "user_teaching",
+      "timestamp": "2025-11-09T04:57:18.696254",
+      "related_to": []
+    },
+    "responsibility": {
+      "source": "user_defined",
+      "confidence": 1.0,
+      "created_at": 1762664243.3939772,
+      "access_count": 93,
+      "last_accessed": 1762664321.1336098,
+      "is_foundational": false,
+      "description": "accountability",
+      "learned_from": "user_teaching",
+      "timestamp": "2025-11-09T04:57:23.393946",
+      "related_to": []
+    },
+    "consequence": {
+      "source": "user_defined",
+      "confidence": 1.0,
+      "created_at": 1762664248.007724,
+      "access_count": 87,
+      "last_accessed": 1762664321.1336102,
+      "is_foundational": false,
+      "description": "result",
+      "learned_from": "user_teaching",
+      "timestamp": "2025-11-09T04:57:28.007662",
+      "related_to": []
+    },
+    "action": {
+      "source": "user_defined",
+      "confidence": 1.0,
+      "created_at": 1762664251.929717,
+      "access_count": 81,
+      "last_accessed": 1762664321.1336107,
+      "is_foundational": false,
+      "description": "deed",
+      "learned_from": "user_teaching",
+      "timestamp": "2025-11-09T04:57:31.929689",
+      "related_to": []
+    },
+    "intention": {
+      "source": "user_defined",
+      "confidence": 1.0,
+      "created_at": 1762664255.8559992,
+      "access_count": 67,
+      "last_accessed": 1762664321.1336112,
+      "is_foundational": false,
+      "description": "purpose",
+      "learned_from": "user_teaching",
+      "timestamp": "2025-11-09T04:57:35.855985",
+      "related_to": [
+        "purpose"
+      ]
+    },
+    "wisdom": {
+      "source": "user_defined",
+      "confidence": 1.0,
+      "created_at": 1762664261.150823,
+      "access_count": 65,
+      "last_accessed": 1762664321.1336117,
+      "is_foundational": false,
+      "description": "deep understanding",
+      "learned_from": "user_teaching",
+      "timestamp": "2025-11-09T04:57:41.150808",
+      "related_to": [
+        "understanding"
+      ]
+    }
+  },
+  "relationship_history": [],
+  "refinement_history": []
+}

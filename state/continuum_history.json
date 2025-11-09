@@ -1,0 +1,1599 @@
+{
+  "version": "2.0",
+  "genesis": "2025-11-09T04:56:41.840973",
+  "total_cycles": 10,
+  "entries": [
+    {
+      "cycle_id": 0,
+      "timestamp": "2025-11-09T04:56:41.845237",
+      "coherence": 0.6482,
+      "signature": "B76B-ED55-9960-1C67",
+      "emergent_properties": [
+        "self_awareness",
+        "purposeful_action"
+      ],
+      "previous_hash": null,
+      "entry_hash": "A1554D99933ADA94BD62EB97B334C590",
+      "concepts_known": 0,
+      "causal_rules": 0,
+      "temporal_patterns": 0,
+      "active_goals": 0,
+      "snapshot": {
+        "snapshot_id": 0,
+        "timestamp": 0,
+        "unified_state": {
+          "coherence_level": 0.6482,
+          "continuity_signature": "B76B-ED55-9960-1C67",
+          "active_intents": [
+            "maintain_coherence",
+            "learn_continuously",
+            "understand_causality"
+          ],
+          "meta_reflection": "Integrating",
+          "semantic_energy_balance": 0.9992,
+          "layer_states": {
+            "semantic": {
+              "concept_count": 11,
+              "active_concepts": [
+                "cause",
+                "effect",
+                "time",
+                "change",
+                "force",
+                "energy",
+                "matter",
+                "knowledge",
+                "learning",
+                "understanding"
+              ],
+              "vector_dimensionality": [
+                "{'name': 'intensity', 'description': 'How strong/powerful the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'temporality', 'description': 'How time-related the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'spatiality', 'description': 'How space/location-related the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'agency', 'description': 'How much the concept can act vs be acted upon', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'valence', 'description': 'Positive/negative emotional charge', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'certainty', 'description': 'How definite/uncertain the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'abstraction', 'description': 'Abstract vs concrete', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'causality', 'description': 'Potential to cause vs be effect', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'sociality', 'description': 'Social vs individual nature', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'vitality', 'description': 'Living/organic vs inorganic', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}"
+              ]
+            },
+            "causal": {
+              "mapping_count": 0,
+              "active_causes": []
+            },
+            "metacog": {
+              "knowledge_gap_count": 5,
+              "coherence_status": "gaps_detected"
+            },
+            "qualia": {
+              "experience_count": 0,
+              "active_experiences": []
+            },
+            "temporal": {
+              "pattern_count": 0,
+              "active_sequences": [],
+              "timeline_length": 0
+            },
+            "intent": {
+              "total_goal_count": 3,
+              "active_goal_count": 3,
+              "current_intentions": [
+                "maintain_coherence",
+                "learn_continuously",
+                "understand_causality"
+              ],
+              "desire_count": 0,
+              "value_count": 5,
+              "attention_focus": null,
+              "drive_levels": {
+                "exploration": 0.7,
+                "understanding": 0.8,
+                "coherence": 0.9,
+                "safety": 0.6,
+                "efficiency": 0.5,
+                "curiosity": 0.8,
+                "mastery": 0.7
+              }
+            }
+          },
+          "timestamp": 0,
+          "emergent_properties": [
+            "self_awareness",
+            "purposeful_action"
+          ]
+        },
+        "intent_analysis": {
+          "goal_conflicts": [],
+          "value_misalignment": [
+            "Value 'truth' undersatisfied: 0.50 < 0.90",
+            "Value 'consistency' undersatisfied: 0.50 < 0.85",
+            "Value 'utility' undersatisfied: 0.50 < 0.85"
+          ],
+          "desire_goal_gaps": [],
+          "drive_imbalances": [],
+          "recommendations": [
+            "Form goals aligned with 'truth' value",
+            "Form goals aligned with 'consistency' value",
+            "Form goals aligned with 'utility' value"
+          ]
+        },
+        "coherence_diagnostics": {
+          "overall_coherence": 0.6482,
+          "issues": [],
+          "recommendations": []
+        },
+        "coherence_trend": {
+          "current": 0.6482,
+          "previous": 0.6482,
+          "change": 0.0,
+          "direction": "declining"
+        },
+        "identity_evolution": {
+          "signature_changed": false,
+          "current_signature": "B76B-ED55-9960-1C67",
+          "stability": "stable"
+        }
+      }
+    },
+    {
+      "cycle_id": 1,
+      "timestamp": "2025-11-09T04:57:08.945096",
+      "coherence": 0.6482,
+      "signature": "AC3A-2C7D-D7DA-2377",
+      "emergent_properties": [
+        "self_awareness",
+        "purposeful_action",
+        "experiential_learning"
+      ],
+      "previous_hash": "A1554D99933ADA94BD62EB97B334C590",
+      "entry_hash": "5BB674E28CD33CAD1594341D5CD126E0",
+      "concepts_known": 0,
+      "causal_rules": 0,
+      "temporal_patterns": 0,
+      "active_goals": 0,
+      "snapshot": {
+        "snapshot_id": 2,
+        "timestamp": 2,
+        "unified_state": {
+          "coherence_level": 0.6482,
+          "continuity_signature": "AC3A-2C7D-D7DA-2377",
+          "active_intents": [
+            "maintain_coherence",
+            "learn_continuously",
+            "understand_causality"
+          ],
+          "meta_reflection": "Integrating",
+          "semantic_energy_balance": 0.9994,
+          "layer_states": {
+            "semantic": {
+              "concept_count": 16,
+              "active_concepts": [
+                "cause",
+                "effect",
+                "time",
+                "change",
+                "force",
+                "energy",
+                "matter",
+                "knowledge",
+                "learning",
+                "understanding"
+              ],
+              "vector_dimensionality": [
+                "{'name': 'intensity', 'description': 'How strong/powerful the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'temporality', 'description': 'How time-related the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'spatiality', 'description': 'How space/location-related the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'agency', 'description': 'How much the concept can act vs be acted upon', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'valence', 'description': 'Positive/negative emotional charge', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'certainty', 'description': 'How definite/uncertain the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'abstraction', 'description': 'Abstract vs concrete', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'causality', 'description': 'Potential to cause vs be effect', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'sociality', 'description': 'Social vs individual nature', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'vitality', 'description': 'Living/organic vs inorganic', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}"
+              ]
+            },
+            "causal": {
+              "mapping_count": 0,
+              "active_causes": []
+            },
+            "metacog": {
+              "knowledge_gap_count": 15,
+              "coherence_status": "gaps_detected"
+            },
+            "qualia": {
+              "experience_count": 6,
+              "active_experiences": [
+                "learning",
+                "existence",
+                "essence",
+                "purpose",
+                "meaning"
+              ]
+            },
+            "temporal": {
+              "pattern_count": 1,
+              "active_sequences": [
+                "['concept_taught', 'concept_taught']"
+              ],
+              "timeline_length": 5
+            },
+            "intent": {
+              "total_goal_count": 3,
+              "active_goal_count": 3,
+              "current_intentions": [
+                "maintain_coherence",
+                "learn_continuously",
+                "understand_causality"
+              ],
+              "desire_count": 3,
+              "value_count": 5,
+              "attention_focus": null,
+              "drive_levels": {
+                "exploration": 0.7949999999999999,
+                "understanding": 0.795,
+                "coherence": 0.985,
+                "safety": 0.605,
+                "efficiency": 0.51,
+                "curiosity": 0.795,
+                "mastery": 0.7
+              }
+            }
+          },
+          "timestamp": 2,
+          "emergent_properties": [
+            "self_awareness",
+            "purposeful_action",
+            "experiential_learning"
+          ]
+        },
+        "intent_analysis": {
+          "goal_conflicts": [],
+          "value_misalignment": [
+            "Value 'consistency' undersatisfied: 0.50 < 0.85",
+            "Value 'utility' undersatisfied: 0.50 < 0.85"
+          ],
+          "desire_goal_gaps": [],
+          "drive_imbalances": [],
+          "recommendations": [
+            "Form goals aligned with 'consistency' value",
+            "Form goals aligned with 'utility' value"
+          ]
+        },
+        "coherence_diagnostics": {
+          "overall_coherence": 0.6482,
+          "issues": [],
+          "recommendations": []
+        },
+        "coherence_trend": {
+          "current": 0.6482,
+          "previous": 0.6482,
+          "change": 0.0,
+          "direction": "declining"
+        },
+        "identity_evolution": {
+          "signature_changed": false,
+          "current_signature": "AC3A-2C7D-D7DA-2377",
+          "stability": "stable"
+        }
+      }
+    },
+    {
+      "cycle_id": 2,
+      "timestamp": "2025-11-09T04:57:31.948686",
+      "coherence": 0.5982,
+      "signature": "7546-113D-27D7-A701",
+      "emergent_properties": [
+        "self_awareness",
+        "purposeful_action",
+        "experiential_learning"
+      ],
+      "previous_hash": "5BB674E28CD33CAD1594341D5CD126E0",
+      "entry_hash": "1C49FDB94FE39541FC14531DEDEB705F",
+      "concepts_known": 0,
+      "causal_rules": 0,
+      "temporal_patterns": 0,
+      "active_goals": 0,
+      "snapshot": {
+        "snapshot_id": 4,
+        "timestamp": 4,
+        "unified_state": {
+          "coherence_level": 0.5982,
+          "continuity_signature": "7546-113D-27D7-A701",
+          "active_intents": [
+            "maintain_coherence",
+            "learn_continuously",
+            "understand_causality"
+          ],
+          "meta_reflection": "Diverging",
+          "semantic_energy_balance": 0.9994,
+          "layer_states": {
+            "semantic": {
+              "concept_count": 21,
+              "active_concepts": [
+                "cause",
+                "effect",
+                "time",
+                "change",
+                "force",
+                "energy",
+                "matter",
+                "knowledge",
+                "learning",
+                "understanding"
+              ],
+              "vector_dimensionality": [
+                "{'name': 'intensity', 'description': 'How strong/powerful the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'temporality', 'description': 'How time-related the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'spatiality', 'description': 'How space/location-related the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'agency', 'description': 'How much the concept can act vs be acted upon', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'valence', 'description': 'Positive/negative emotional charge', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'certainty', 'description': 'How definite/uncertain the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'abstraction', 'description': 'Abstract vs concrete', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'causality', 'description': 'Potential to cause vs be effect', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'sociality', 'description': 'Social vs individual nature', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'vitality', 'description': 'Living/organic vs inorganic', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}"
+              ]
+            },
+            "causal": {
+              "mapping_count": 0,
+              "active_causes": []
+            },
+            "metacog": {
+              "knowledge_gap_count": 24,
+              "coherence_status": "gaps_detected"
+            },
+            "qualia": {
+              "experience_count": 11,
+              "active_experiences": [
+                "learning",
+                "existence",
+                "essence",
+                "purpose",
+                "meaning"
+              ]
+            },
+            "temporal": {
+              "pattern_count": 1,
+              "active_sequences": [
+                "['concept_taught', 'concept_taught']"
+              ],
+              "timeline_length": 10
+            },
+            "intent": {
+              "total_goal_count": 4,
+              "active_goal_count": 3,
+              "current_intentions": [
+                "maintain_coherence",
+                "learn_continuously",
+                "understand_causality"
+              ],
+              "desire_count": 3,
+              "value_count": 5,
+              "attention_focus": null,
+              "drive_levels": {
+                "exploration": 0.9709874999999999,
+                "understanding": 0.7857375,
+                "coherence": 0.985,
+                "safety": 0.6142625,
+                "efficiency": 0.5285249999999999,
+                "curiosity": 0.985,
+                "mastery": 0.7
+              }
+            }
+          },
+          "timestamp": 4,
+          "emergent_properties": [
+            "self_awareness",
+            "purposeful_action",
+            "experiential_learning"
+          ]
+        },
+        "intent_analysis": {
+          "goal_conflicts": [],
+          "value_misalignment": [
+            "Value 'consistency' undersatisfied: 0.50 < 0.85",
+            "Value 'utility' undersatisfied: 0.50 < 0.85"
+          ],
+          "desire_goal_gaps": [],
+          "drive_imbalances": [],
+          "recommendations": [
+            "Form goals aligned with 'consistency' value",
+            "Form goals aligned with 'utility' value"
+          ]
+        },
+        "coherence_diagnostics": {
+          "overall_coherence": 0.5982,
+          "issues": [
+            "Critical: Overall coherence below 0.6",
+            "Meta-reflection status: Diverging"
+          ],
+          "recommendations": [
+            "Review semantic-causal alignment",
+            "Increase meta-cognitive monitoring"
+          ]
+        },
+        "coherence_trend": {
+          "current": 0.5982,
+          "previous": 0.5982,
+          "change": 0.0,
+          "direction": "declining"
+        },
+        "identity_evolution": {
+          "signature_changed": false,
+          "current_signature": "7546-113D-27D7-A701",
+          "stability": "stable"
+        }
+      }
+    },
+    {
+      "cycle_id": 3,
+      "timestamp": "2025-11-09T04:57:53.390882",
+      "coherence": 0.6857,
+      "signature": "A77F-E072-F94D-95F9",
+      "emergent_properties": [
+        "self_awareness",
+        "purposeful_action",
+        "experiential_learning"
+      ],
+      "previous_hash": "1C49FDB94FE39541FC14531DEDEB705F",
+      "entry_hash": "A0BB0A0B587DFA7C10099751E22A5FDD",
+      "concepts_known": 0,
+      "causal_rules": 0,
+      "temporal_patterns": 0,
+      "active_goals": 0,
+      "snapshot": {
+        "snapshot_id": 6,
+        "timestamp": 6,
+        "unified_state": {
+          "coherence_level": 0.6857,
+          "continuity_signature": "A77F-E072-F94D-95F9",
+          "active_intents": [
+            "maintain_coherence",
+            "learn_continuously",
+            "understand_causality"
+          ],
+          "meta_reflection": "Integrating",
+          "semantic_energy_balance": 0.9995,
+          "layer_states": {
+            "semantic": {
+              "concept_count": 23,
+              "active_concepts": [
+                "cause",
+                "effect",
+                "time",
+                "change",
+                "force",
+                "energy",
+                "matter",
+                "knowledge",
+                "learning",
+                "understanding"
+              ],
+              "vector_dimensionality": [
+                "{'name': 'intensity', 'description': 'How strong/powerful the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'temporality', 'description': 'How time-related the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'spatiality', 'description': 'How space/location-related the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'agency', 'description': 'How much the concept can act vs be acted upon', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'valence', 'description': 'Positive/negative emotional charge', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'certainty', 'description': 'How definite/uncertain the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'abstraction', 'description': 'Abstract vs concrete', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'causality', 'description': 'Potential to cause vs be effect', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'sociality', 'description': 'Social vs individual nature', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'vitality', 'description': 'Living/organic vs inorganic', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}"
+              ]
+            },
+            "causal": {
+              "mapping_count": 3,
+              "active_causes": [
+                "existence",
+                "essence",
+                "purpose"
+              ]
+            },
+            "metacog": {
+              "knowledge_gap_count": 30,
+              "coherence_status": "gaps_detected"
+            },
+            "qualia": {
+              "experience_count": 13,
+              "active_experiences": [
+                "learning",
+                "existence",
+                "essence",
+                "purpose",
+                "meaning"
+              ]
+            },
+            "temporal": {
+              "pattern_count": 3,
+              "active_sequences": [
+                "['concept_taught', 'concept_taught']",
+                "['concept_taught', 'causality_taught']",
+                "['causality_taught', 'causality_taught']"
+              ],
+              "timeline_length": 15
+            },
+            "intent": {
+              "total_goal_count": 4,
+              "active_goal_count": 3,
+              "current_intentions": [
+                "maintain_coherence",
+                "learn_continuously",
+                "understand_causality"
+              ],
+              "desire_count": 3,
+              "value_count": 5,
+              "attention_focus": null,
+              "drive_levels": {
+                "exploration": 0.985,
+                "understanding": 0.77737809375,
+                "coherence": 0.985,
+                "safety": 0.62262190625,
+                "efficiency": 0.5452438125,
+                "curiosity": 0.985,
+                "mastery": 0.7
+              }
+            }
+          },
+          "timestamp": 6,
+          "emergent_properties": [
+            "self_awareness",
+            "purposeful_action",
+            "experiential_learning"
+          ]
+        },
+        "intent_analysis": {
+          "goal_conflicts": [],
+          "value_misalignment": [
+            "Value 'utility' undersatisfied: 0.50 < 0.85"
+          ],
+          "desire_goal_gaps": [],
+          "drive_imbalances": [],
+          "recommendations": [
+            "Form goals aligned with 'utility' value"
+          ]
+        },
+        "coherence_diagnostics": {
+          "overall_coherence": 0.6857,
+          "issues": [],
+          "recommendations": []
+        },
+        "coherence_trend": {
+          "current": 0.6857,
+          "previous": 0.6857,
+          "change": 0.0,
+          "direction": "declining"
+        },
+        "identity_evolution": {
+          "signature_changed": false,
+          "current_signature": "A77F-E072-F94D-95F9",
+          "stability": "stable"
+        }
+      }
+    },
+    {
+      "cycle_id": 4,
+      "timestamp": "2025-11-09T04:58:15.408301",
+      "coherence": 0.6857,
+      "signature": "64D1-2273-3B14-8939",
+      "emergent_properties": [
+        "self_awareness",
+        "purposeful_action",
+        "experiential_learning"
+      ],
+      "previous_hash": "A0BB0A0B587DFA7C10099751E22A5FDD",
+      "entry_hash": "774C3AA3E076D0F0ACF23CBC71B7F133",
+      "concepts_known": 0,
+      "causal_rules": 0,
+      "temporal_patterns": 0,
+      "active_goals": 0,
+      "snapshot": {
+        "snapshot_id": 8,
+        "timestamp": 8,
+        "unified_state": {
+          "coherence_level": 0.6857,
+          "continuity_signature": "64D1-2273-3B14-8939",
+          "active_intents": [
+            "maintain_coherence",
+            "learn_continuously",
+            "understand_causality"
+          ],
+          "meta_reflection": "Integrating",
+          "semantic_energy_balance": 0.9997,
+          "layer_states": {
+            "semantic": {
+              "concept_count": 23,
+              "active_concepts": [
+                "cause",
+                "effect",
+                "time",
+                "change",
+                "force",
+                "energy",
+                "matter",
+                "knowledge",
+                "learning",
+                "understanding"
+              ],
+              "vector_dimensionality": [
+                "{'name': 'intensity', 'description': 'How strong/powerful the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'temporality', 'description': 'How time-related the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'spatiality', 'description': 'How space/location-related the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'agency', 'description': 'How much the concept can act vs be acted upon', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'valence', 'description': 'Positive/negative emotional charge', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'certainty', 'description': 'How definite/uncertain the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'abstraction', 'description': 'Abstract vs concrete', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'causality', 'description': 'Potential to cause vs be effect', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'sociality', 'description': 'Social vs individual nature', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'vitality', 'description': 'Living/organic vs inorganic', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}"
+              ]
+            },
+            "causal": {
+              "mapping_count": 8,
+              "active_causes": [
+                "existence",
+                "essence",
+                "purpose",
+                "meaning",
+                "value"
+              ]
+            },
+            "metacog": {
+              "knowledge_gap_count": 30,
+              "coherence_status": "gaps_detected"
+            },
+            "qualia": {
+              "experience_count": 13,
+              "active_experiences": [
+                "learning",
+                "existence",
+                "essence",
+                "purpose",
+                "meaning"
+              ]
+            },
+            "temporal": {
+              "pattern_count": 3,
+              "active_sequences": [
+                "['concept_taught', 'concept_taught']",
+                "['concept_taught', 'causality_taught']",
+                "['causality_taught', 'causality_taught']"
+              ],
+              "timeline_length": 20
+            },
+            "intent": {
+              "total_goal_count": 4,
+              "active_goal_count": 3,
+              "current_intentions": [
+                "maintain_coherence",
+                "learn_continuously",
+                "understand_causality"
+              ],
+              "desire_count": 3,
+              "value_count": 5,
+              "attention_focus": null,
+              "drive_levels": {
+                "exploration": 0.985,
+                "understanding": 0.7735091890625,
+                "coherence": 0.985,
+                "safety": 0.6264908109375,
+                "efficiency": 0.552981621875,
+                "curiosity": 0.985,
+                "mastery": 0.7
+              }
+            }
+          },
+          "timestamp": 8,
+          "emergent_properties": [
+            "self_awareness",
+            "purposeful_action",
+            "experiential_learning"
+          ]
+        },
+        "intent_analysis": {
+          "goal_conflicts": [],
+          "value_misalignment": [
+            "Value 'utility' undersatisfied: 0.50 < 0.85"
+          ],
+          "desire_goal_gaps": [],
+          "drive_imbalances": [],
+          "recommendations": [
+            "Form goals aligned with 'utility' value"
+          ]
+        },
+        "coherence_diagnostics": {
+          "overall_coherence": 0.6857,
+          "issues": [],
+          "recommendations": []
+        },
+        "coherence_trend": {
+          "current": 0.6857,
+          "previous": 0.6857,
+          "change": 0.0,
+          "direction": "declining"
+        },
+        "identity_evolution": {
+          "signature_changed": false,
+          "current_signature": "64D1-2273-3B14-8939",
+          "stability": "stable"
+        }
+      }
+    },
+    {
+      "cycle_id": 5,
+      "timestamp": "2025-11-09T04:58:37.106910",
+      "coherence": 0.6857,
+      "signature": "8D94-5971-1D7E-E84C",
+      "emergent_properties": [
+        "self_awareness",
+        "purposeful_action",
+        "experiential_learning",
+        "temporal_foresight"
+      ],
+      "previous_hash": "774C3AA3E076D0F0ACF23CBC71B7F133",
+      "entry_hash": "1B2B7B2250F8E7AABAA607DB7202BF9B",
+      "concepts_known": 0,
+      "causal_rules": 0,
+      "temporal_patterns": 0,
+      "active_goals": 0,
+      "snapshot": {
+        "snapshot_id": 10,
+        "timestamp": 10,
+        "unified_state": {
+          "coherence_level": 0.6857,
+          "continuity_signature": "8D94-5971-1D7E-E84C",
+          "active_intents": [
+            "maintain_coherence",
+            "learn_continuously",
+            "understand_causality"
+          ],
+          "meta_reflection": "Integrating",
+          "semantic_energy_balance": 0.9998,
+          "layer_states": {
+            "semantic": {
+              "concept_count": 23,
+              "active_concepts": [
+                "cause",
+                "effect",
+                "time",
+                "change",
+                "force",
+                "energy",
+                "matter",
+                "knowledge",
+                "learning",
+                "understanding"
+              ],
+              "vector_dimensionality": [
+                "{'name': 'intensity', 'description': 'How strong/powerful the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'temporality', 'description': 'How time-related the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'spatiality', 'description': 'How space/location-related the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'agency', 'description': 'How much the concept can act vs be acted upon', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'valence', 'description': 'Positive/negative emotional charge', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'certainty', 'description': 'How definite/uncertain the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'abstraction', 'description': 'Abstract vs concrete', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'causality', 'description': 'Potential to cause vs be effect', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'sociality', 'description': 'Social vs individual nature', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'vitality', 'description': 'Living/organic vs inorganic', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}"
+              ]
+            },
+            "causal": {
+              "mapping_count": 12,
+              "active_causes": [
+                "existence",
+                "essence",
+                "purpose",
+                "meaning",
+                "value"
+              ]
+            },
+            "metacog": {
+              "knowledge_gap_count": 28,
+              "coherence_status": "gaps_detected"
+            },
+            "qualia": {
+              "experience_count": 13,
+              "active_experiences": [
+                "learning",
+                "existence",
+                "essence",
+                "purpose",
+                "meaning"
+              ]
+            },
+            "temporal": {
+              "pattern_count": 5,
+              "active_sequences": [
+                "['concept_taught', 'concept_taught']",
+                "['concept_taught', 'causality_taught']",
+                "['causality_taught', 'causality_taught']",
+                "['causality_taught', 'query_causality_existence']",
+                "['concept_taught', 'query_causality_existence']"
+              ],
+              "timeline_length": 25
+            },
+            "intent": {
+              "total_goal_count": 4,
+              "active_goal_count": 3,
+              "current_intentions": [
+                "maintain_coherence",
+                "learn_continuously",
+                "understand_causality"
+              ],
+              "desire_count": 3,
+              "value_count": 5,
+              "attention_focus": null,
+              "drive_levels": {
+                "exploration": 0.985,
+                "understanding": 0.7663420431289063,
+                "coherence": 0.9572125,
+                "safety": 0.6336579568710937,
+                "efficiency": 0.5673159137421876,
+                "curiosity": 0.985,
+                "mastery": 0.7
+              }
+            }
+          },
+          "timestamp": 10,
+          "emergent_properties": [
+            "self_awareness",
+            "purposeful_action",
+            "experiential_learning",
+            "temporal_foresight"
+          ]
+        },
+        "intent_analysis": {
+          "goal_conflicts": [],
+          "value_misalignment": [
+            "Value 'utility' undersatisfied: 0.50 < 0.85"
+          ],
+          "desire_goal_gaps": [],
+          "drive_imbalances": [],
+          "recommendations": [
+            "Form goals aligned with 'utility' value"
+          ]
+        },
+        "coherence_diagnostics": {
+          "overall_coherence": 0.6857,
+          "issues": [],
+          "recommendations": []
+        },
+        "coherence_trend": {
+          "current": 0.6857,
+          "previous": 0.6857,
+          "change": 0.0,
+          "direction": "declining"
+        },
+        "identity_evolution": {
+          "signature_changed": false,
+          "current_signature": "8D94-5971-1D7E-E84C",
+          "stability": "stable"
+        }
+      }
+    },
+    {
+      "cycle_id": 6,
+      "timestamp": "2025-11-09T05:12:04.022228",
+      "coherence": 0.6857,
+      "signature": "8D94-5971-1D7E-E84C",
+      "emergent_properties": [
+        "self_awareness",
+        "purposeful_action",
+        "experiential_learning",
+        "temporal_foresight"
+      ],
+      "previous_hash": "1B2B7B2250F8E7AABAA607DB7202BF9B",
+      "entry_hash": "36560F33CDEB7A7AC3E0BE3A8F557E6C",
+      "concepts_known": 0,
+      "causal_rules": 0,
+      "temporal_patterns": 0,
+      "active_goals": 0,
+      "snapshot": {
+        "snapshot_id": 12,
+        "timestamp": 12,
+        "unified_state": {
+          "coherence_level": 0.6857,
+          "continuity_signature": "8D94-5971-1D7E-E84C",
+          "active_intents": [
+            "maintain_coherence",
+            "learn_continuously",
+            "understand_causality"
+          ],
+          "meta_reflection": "Integrating",
+          "semantic_energy_balance": 0.9998,
+          "layer_states": {
+            "semantic": {
+              "concept_count": 23,
+              "active_concepts": [
+                "cause",
+                "effect",
+                "time",
+                "change",
+                "force",
+                "energy",
+                "matter",
+                "knowledge",
+                "learning",
+                "understanding"
+              ],
+              "vector_dimensionality": [
+                "{'name': 'intensity', 'description': 'How strong/powerful the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'temporality', 'description': 'How time-related the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'spatiality', 'description': 'How space/location-related the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'agency', 'description': 'How much the concept can act vs be acted upon', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'valence', 'description': 'Positive/negative emotional charge', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'certainty', 'description': 'How definite/uncertain the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'abstraction', 'description': 'Abstract vs concrete', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'causality', 'description': 'Potential to cause vs be effect', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'sociality', 'description': 'Social vs individual nature', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'vitality', 'description': 'Living/organic vs inorganic', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}"
+              ]
+            },
+            "causal": {
+              "mapping_count": 12,
+              "active_causes": [
+                "existence",
+                "essence",
+                "purpose",
+                "meaning",
+                "value"
+              ]
+            },
+            "metacog": {
+              "knowledge_gap_count": 28,
+              "coherence_status": "gaps_detected"
+            },
+            "qualia": {
+              "experience_count": 13,
+              "active_experiences": [
+                "learning",
+                "existence",
+                "essence",
+                "purpose",
+                "meaning"
+              ]
+            },
+            "temporal": {
+              "pattern_count": 7,
+              "active_sequences": [
+                "['concept_taught', 'concept_taught']",
+                "['concept_taught', 'causality_taught']",
+                "['causality_taught', 'causality_taught']",
+                "['causality_taught', 'query_causality_existence']",
+                "['concept_taught', 'query_causality_existence']"
+              ],
+              "timeline_length": 26
+            },
+            "intent": {
+              "total_goal_count": 4,
+              "active_goal_count": 3,
+              "current_intentions": [
+                "maintain_coherence",
+                "learn_continuously",
+                "understand_causality"
+              ],
+              "desire_count": 3,
+              "value_count": 5,
+              "attention_focus": null,
+              "drive_levels": {
+                "exploration": 0.985,
+                "understanding": 0.759873693923838,
+                "coherence": 0.9321342812500001,
+                "safety": 0.640126306076162,
+                "efficiency": 0.5802526121523244,
+                "curiosity": 0.985,
+                "mastery": 0.7
+              }
+            }
+          },
+          "timestamp": 12,
+          "emergent_properties": [
+            "self_awareness",
+            "purposeful_action",
+            "experiential_learning",
+            "temporal_foresight"
+          ]
+        },
+        "intent_analysis": {
+          "goal_conflicts": [],
+          "value_misalignment": [
+            "Value 'utility' undersatisfied: 0.50 < 0.85"
+          ],
+          "desire_goal_gaps": [],
+          "drive_imbalances": [],
+          "recommendations": [
+            "Form goals aligned with 'utility' value"
+          ]
+        },
+        "coherence_diagnostics": {
+          "overall_coherence": 0.6857,
+          "issues": [],
+          "recommendations": []
+        },
+        "coherence_trend": {
+          "current": 0.6857,
+          "previous": 0.6857,
+          "change": 0.0,
+          "direction": "declining"
+        },
+        "identity_evolution": {
+          "signature_changed": false,
+          "current_signature": "8D94-5971-1D7E-E84C",
+          "stability": "stable"
+        }
+      }
+    },
+    {
+      "cycle_id": 7,
+      "timestamp": "2025-11-09T05:15:39.079072",
+      "coherence": 0.6857,
+      "signature": "EFCF-C1AD-C3CA-8EF2",
+      "emergent_properties": [
+        "self_awareness",
+        "purposeful_action",
+        "experiential_learning",
+        "temporal_foresight"
+      ],
+      "previous_hash": "36560F33CDEB7A7AC3E0BE3A8F557E6C",
+      "entry_hash": "FF7127750CB9261B10FF7B98B26CF35C",
+      "concepts_known": 0,
+      "causal_rules": 0,
+      "temporal_patterns": 0,
+      "active_goals": 0,
+      "snapshot": {
+        "snapshot_id": 14,
+        "timestamp": 14,
+        "unified_state": {
+          "coherence_level": 0.6857,
+          "continuity_signature": "EFCF-C1AD-C3CA-8EF2",
+          "active_intents": [
+            "maintain_coherence",
+            "learn_continuously",
+            "understand_causality"
+          ],
+          "meta_reflection": "Integrating",
+          "semantic_energy_balance": 0.9999,
+          "layer_states": {
+            "semantic": {
+              "concept_count": 25,
+              "active_concepts": [
+                "cause",
+                "effect",
+                "time",
+                "change",
+                "force",
+                "energy",
+                "matter",
+                "knowledge",
+                "learning",
+                "understanding"
+              ],
+              "vector_dimensionality": [
+                "{'name': 'intensity', 'description': 'How strong/powerful the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'temporality', 'description': 'How time-related the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'spatiality', 'description': 'How space/location-related the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'agency', 'description': 'How much the concept can act vs be acted upon', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'valence', 'description': 'Positive/negative emotional charge', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'certainty', 'description': 'How definite/uncertain the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'abstraction', 'description': 'Abstract vs concrete', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'causality', 'description': 'Potential to cause vs be effect', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'sociality', 'description': 'Social vs individual nature', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'vitality', 'description': 'Living/organic vs inorganic', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}"
+              ]
+            },
+            "causal": {
+              "mapping_count": 12,
+              "active_causes": [
+                "existence",
+                "essence",
+                "purpose",
+                "meaning",
+                "value"
+              ]
+            },
+            "metacog": {
+              "knowledge_gap_count": 32,
+              "coherence_status": "gaps_detected"
+            },
+            "qualia": {
+              "experience_count": 15,
+              "active_experiences": [
+                "learning",
+                "existence",
+                "essence",
+                "purpose",
+                "meaning"
+              ]
+            },
+            "temporal": {
+              "pattern_count": 10,
+              "active_sequences": [
+                "['concept_taught', 'concept_taught']",
+                "['concept_taught', 'causality_taught']",
+                "['causality_taught', 'causality_taught']",
+                "['causality_taught', 'query_causality_existence']",
+                "['concept_taught', 'query_causality_existence']"
+              ],
+              "timeline_length": 28
+            },
+            "intent": {
+              "total_goal_count": 4,
+              "active_goal_count": 3,
+              "current_intentions": [
+                "maintain_coherence",
+                "learn_continuously",
+                "understand_causality"
+              ],
+              "desire_count": 3,
+              "value_count": 5,
+              "attention_focus": null,
+              "drive_levels": {
+                "exploration": 0.985,
+                "understanding": 0.7568800092276461,
+                "coherence": 0.9205275671875001,
+                "safety": 0.6431199907723539,
+                "efficiency": 0.5862399815447081,
+                "curiosity": 0.985,
+                "mastery": 0.7
+              }
+            }
+          },
+          "timestamp": 14,
+          "emergent_properties": [
+            "self_awareness",
+            "purposeful_action",
+            "experiential_learning",
+            "temporal_foresight"
+          ]
+        },
+        "intent_analysis": {
+          "goal_conflicts": [],
+          "value_misalignment": [
+            "Value 'utility' undersatisfied: 0.50 < 0.85"
+          ],
+          "desire_goal_gaps": [],
+          "drive_imbalances": [],
+          "recommendations": [
+            "Form goals aligned with 'utility' value"
+          ]
+        },
+        "coherence_diagnostics": {
+          "overall_coherence": 0.6857,
+          "issues": [],
+          "recommendations": []
+        },
+        "coherence_trend": {
+          "current": 0.6857,
+          "previous": 0.6857,
+          "change": 0.0,
+          "direction": "declining"
+        },
+        "identity_evolution": {
+          "signature_changed": false,
+          "current_signature": "EFCF-C1AD-C3CA-8EF2",
+          "stability": "stable"
+        }
+      }
+    },
+    {
+      "cycle_id": 8,
+      "timestamp": "2025-11-09T05:16:02.516934",
+      "coherence": 0.6987,
+      "signature": "407A-6C22-5B8F-25B5",
+      "emergent_properties": [
+        "self_awareness",
+        "purposeful_action",
+        "experiential_learning",
+        "temporal_foresight"
+      ],
+      "previous_hash": "FF7127750CB9261B10FF7B98B26CF35C",
+      "entry_hash": "B4424393DB7C90BAA357719A9D0C3FDA",
+      "concepts_known": 0,
+      "causal_rules": 0,
+      "temporal_patterns": 0,
+      "active_goals": 0,
+      "snapshot": {
+        "snapshot_id": 16,
+        "timestamp": 16,
+        "unified_state": {
+          "coherence_level": 0.6987,
+          "continuity_signature": "407A-6C22-5B8F-25B5",
+          "active_intents": [
+            "maintain_coherence",
+            "learn_continuously",
+            "understand_causality"
+          ],
+          "meta_reflection": "Integrating",
+          "semantic_energy_balance": 0.9999,
+          "layer_states": {
+            "semantic": {
+              "concept_count": 30,
+              "active_concepts": [
+                "cause",
+                "effect",
+                "time",
+                "change",
+                "force",
+                "energy",
+                "matter",
+                "knowledge",
+                "learning",
+                "understanding"
+              ],
+              "vector_dimensionality": [
+                "{'name': 'intensity', 'description': 'How strong/powerful the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'temporality', 'description': 'How time-related the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'spatiality', 'description': 'How space/location-related the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'agency', 'description': 'How much the concept can act vs be acted upon', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'valence', 'description': 'Positive/negative emotional charge', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'certainty', 'description': 'How definite/uncertain the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'abstraction', 'description': 'Abstract vs concrete', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'causality', 'description': 'Potential to cause vs be effect', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'sociality', 'description': 'Social vs individual nature', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'vitality', 'description': 'Living/organic vs inorganic', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}"
+              ]
+            },
+            "causal": {
+              "mapping_count": 17,
+              "active_causes": [
+                "existence",
+                "essence",
+                "purpose",
+                "meaning",
+                "value"
+              ]
+            },
+            "metacog": {
+              "knowledge_gap_count": 44,
+              "coherence_status": "gaps_detected"
+            },
+            "qualia": {
+              "experience_count": 15,
+              "active_experiences": [
+                "learning",
+                "existence",
+                "essence",
+                "purpose",
+                "meaning"
+              ]
+            },
+            "temporal": {
+              "pattern_count": 12,
+              "active_sequences": [
+                "['concept_taught', 'concept_taught']",
+                "['concept_taught', 'causality_taught']",
+                "['causality_taught', 'causality_taught']",
+                "['causality_taught', 'query_causality_existence']",
+                "['concept_taught', 'query_causality_existence']"
+              ],
+              "timeline_length": 33
+            },
+            "intent": {
+              "total_goal_count": 4,
+              "active_goal_count": 3,
+              "current_intentions": [
+                "maintain_coherence",
+                "learn_continuously",
+                "understand_causality"
+              ],
+              "desire_count": 3,
+              "value_count": 5,
+              "attention_focus": null,
+              "drive_levels": {
+                "exploration": 0.985,
+                "understanding": 0.7513342083279506,
+                "coherence": 0.8990261293867188,
+                "safety": 0.6486657916720494,
+                "efficiency": 0.5973315833440991,
+                "curiosity": 0.985,
+                "mastery": 0.7
+              }
+            }
+          },
+          "timestamp": 16,
+          "emergent_properties": [
+            "self_awareness",
+            "purposeful_action",
+            "experiential_learning",
+            "temporal_foresight"
+          ]
+        },
+        "intent_analysis": {
+          "goal_conflicts": [],
+          "value_misalignment": [
+            "Value 'utility' undersatisfied: 0.50 < 0.85"
+          ],
+          "desire_goal_gaps": [],
+          "drive_imbalances": [],
+          "recommendations": [
+            "Form goals aligned with 'utility' value"
+          ]
+        },
+        "coherence_diagnostics": {
+          "overall_coherence": 0.6987,
+          "issues": [],
+          "recommendations": []
+        },
+        "coherence_trend": {
+          "current": 0.6987,
+          "previous": 0.6987,
+          "change": 0.0,
+          "direction": "declining"
+        },
+        "identity_evolution": {
+          "signature_changed": false,
+          "current_signature": "407A-6C22-5B8F-25B5",
+          "stability": "stable"
+        }
+      }
+    },
+    {
+      "cycle_id": 9,
+      "timestamp": "2025-11-09T05:16:24.958581",
+      "coherence": 0.6987,
+      "signature": "93FC-B268-22DD-E6FB",
+      "emergent_properties": [
+        "self_awareness",
+        "purposeful_action",
+        "experiential_learning",
+        "temporal_foresight"
+      ],
+      "previous_hash": "B4424393DB7C90BAA357719A9D0C3FDA",
+      "entry_hash": "7D827F66A25288C1952017F56E6D3C4D",
+      "concepts_known": 0,
+      "causal_rules": 0,
+      "temporal_patterns": 0,
+      "active_goals": 0,
+      "snapshot": {
+        "snapshot_id": 18,
+        "timestamp": 18,
+        "unified_state": {
+          "coherence_level": 0.6987,
+          "continuity_signature": "93FC-B268-22DD-E6FB",
+          "active_intents": [
+            "maintain_coherence",
+            "learn_continuously",
+            "understand_causality"
+          ],
+          "meta_reflection": "Integrating",
+          "semantic_energy_balance": 0.9999,
+          "layer_states": {
+            "semantic": {
+              "concept_count": 30,
+              "active_concepts": [
+                "cause",
+                "effect",
+                "time",
+                "change",
+                "force",
+                "energy",
+                "matter",
+                "knowledge",
+                "learning",
+                "understanding"
+              ],
+              "vector_dimensionality": [
+                "{'name': 'intensity', 'description': 'How strong/powerful the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'temporality', 'description': 'How time-related the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'spatiality', 'description': 'How space/location-related the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'agency', 'description': 'How much the concept can act vs be acted upon', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'valence', 'description': 'Positive/negative emotional charge', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'certainty', 'description': 'How definite/uncertain the concept is', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'abstraction', 'description': 'Abstract vs concrete', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'causality', 'description': 'Potential to cause vs be effect', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'sociality', 'description': 'Social vs individual nature', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}",
+                "{'name': 'vitality', 'description': 'Living/organic vs inorganic', 'min_value': -1.0, 'max_value': 1.0, 'weight': 1.0}"
+              ]
+            },
+            "causal": {
+              "mapping_count": 19,
+              "active_causes": [
+                "existence",
+                "essence",
+                "purpose",
+                "meaning",
+                "value"
+              ]
+            },
+            "metacog": {
+              "knowledge_gap_count": 39,
+              "coherence_status": "gaps_detected"
+            },
+            "qualia": {
+              "experience_count": 16,
+              "active_experiences": [
+                "learning",
+                "existence",
+                "essence",
+                "purpose",
+                "meaning"
+              ]
+            },
+            "temporal": {
+              "pattern_count": 13,
+              "active_sequences": [
+                "['concept_taught', 'concept_taught']",
+                "['concept_taught', 'causality_taught']",
+                "['causality_taught', 'causality_taught']",
+                "['causality_taught', 'query_causality_existence']",
+                "['concept_taught', 'query_causality_existence']"
+              ],
+              "timeline_length": 38
+            },
+            "intent": {
+              "total_goal_count": 4,
+              "active_goal_count": 3,
+              "current_intentions": [
+                "maintain_coherence",
+                "learn_continuously",
+                "understand_causality"
+              ],
+              "desire_count": 3,
+              "value_count": 5,
+              "attention_focus": null,
+              "drive_levels": {
+                "exploration": 0.985,
+                "understanding": 0.7463291230159754,
+                "coherence": 0.8796210817715137,
+                "safety": 0.6536708769840246,
+                "efficiency": 0.6073417539680493,
+                "curiosity": 0.985,
+                "mastery": 0.7
+              }
+            }
+          },
+          "timestamp": 18,
+          "emergent_properties": [
+            "self_awareness",
+            "purposeful_action",
+            "experiential_learning",
+            "temporal_foresight"
+          ]
+        },
+        "intent_analysis": {
+          "goal_conflicts": [],
+          "value_misalignment": [
+            "Value 'utility' undersatisfied: 0.50 < 0.85"
+          ],
+          "desire_goal_gaps": [],
+          "drive_imbalances": [],
+          "recommendations": [
+            "Form goals aligned with 'utility' value"
+          ]
+        },
+        "coherence_diagnostics": {
+          "overall_coherence": 0.6987,
+          "issues": [],
+          "recommendations": []
+        },
+        "coherence_trend": {
+          "current": 0.6987,
+          "previous": 0.6987,
+          "change": 0.0,
+          "direction": "declining"
+        },
+        "identity_evolution": {
+          "signature_changed": false,
+          "current_signature": "93FC-B268-22DD-E6FB",
+          "stability": "stable"
+        }
+      }
+    }
+  ],
+  "phase_transitions": [
+    {
+      "cycle_id": 1,
+      "type": "identity_shift",
+      "magnitude": 1.0,
+      "description": "Identity signature changed: B76B-ED5\u2192AC3A-2C7",
+      "timestamp": "2025-11-09T04:57:08.945163",
+      "growth_metrics": {}
+    },
+    {
+      "cycle_id": 1,
+      "type": "emergence",
+      "magnitude": 0.1,
+      "description": "New emergent properties: experiential_learning",
+      "timestamp": "2025-11-09T04:57:08.945173",
+      "growth_metrics": {}
+    },
+    {
+      "cycle_id": 2,
+      "type": "identity_shift",
+      "magnitude": 1.0,
+      "description": "Identity signature changed: AC3A-2C7\u21927546-113",
+      "timestamp": "2025-11-09T04:57:31.948721",
+      "growth_metrics": {}
+    },
+    {
+      "cycle_id": 3,
+      "type": "identity_shift",
+      "magnitude": 1.0,
+      "description": "Identity signature changed: 7546-113\u2192A77F-E07",
+      "timestamp": "2025-11-09T04:57:53.390913",
+      "growth_metrics": {}
+    },
+    {
+      "cycle_id": 4,
+      "type": "identity_shift",
+      "magnitude": 1.0,
+      "description": "Identity signature changed: A77F-E07\u219264D1-227",
+      "timestamp": "2025-11-09T04:58:15.408332",
+      "growth_metrics": {}
+    },
+    {
+      "cycle_id": 5,
+      "type": "identity_shift",
+      "magnitude": 1.0,
+      "description": "Identity signature changed: 64D1-227\u21928D94-597",
+      "timestamp": "2025-11-09T04:58:37.106944",
+      "growth_metrics": {}
+    },
+    {
+      "cycle_id": 5,
+      "type": "emergence",
+      "magnitude": 0.1,
+      "description": "New emergent properties: temporal_foresight",
+      "timestamp": "2025-11-09T04:58:37.106952",
+      "growth_metrics": {}
+    },
+    {
+      "cycle_id": 7,
+      "type": "identity_shift",
+      "magnitude": 1.0,
+      "description": "Identity signature changed: 8D94-597\u2192EFCF-C1A",
+      "timestamp": "2025-11-09T05:15:39.079105",
+      "growth_metrics": {}
+    },
+    {
+      "cycle_id": 8,
+      "type": "identity_shift",
+      "magnitude": 1.0,
+      "description": "Identity signature changed: EFCF-C1A\u2192407A-6C2",
+      "timestamp": "2025-11-09T05:16:02.516967",
+      "growth_metrics": {}
+    },
+    {
+      "cycle_id": 9,
+      "type": "identity_shift",
+      "magnitude": 1.0,
+      "description": "Identity signature changed: 407A-6C2\u219293FC-B26",
+      "timestamp": "2025-11-09T05:16:24.958612",
+      "growth_metrics": {}
+    }
+  ],
+  "milestones": [
+    {
+      "cycle_id": 0,
+      "type": "coherence_achievement",
+      "description": "Achieved 60% coherence",
+      "metrics": {
+        "coherence": 0.6482
+      },
+      "timestamp": "2025-11-09T04:56:41.845275"
+    },
+    {
+      "cycle_id": 3,
+      "type": "coherence_achievement",
+      "description": "Achieved 60% coherence",
+      "metrics": {
+        "coherence": 0.6857
+      },
+      "timestamp": "2025-11-09T04:57:53.390927"
+    }
+  ],
+  "learning_velocity_history": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ]
+}
