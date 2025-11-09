@@ -1,10 +1,10 @@
-# DAAC — Deterministic Artificial-Autonomous Cognition
+# 🧠 DAAC — Deterministic Artificial-Autonomous Cognition
 
 > *“Traditional AI predicts. DAAC **integrates**.”*
 
 ---
 
-## The Rehabilitated Mind
+## 🧩 The Rehabilitated Mind
 
 **November 9, 2025**  
 A deterministic cognitive system **broke**, **panicked**, and **healed itself** — all logged in transparent JSON.
@@ -17,7 +17,7 @@ A deterministic cognitive system **broke**, **panicked**, and **healed itself** 
 a self-regulating artificial mind that experienced divergence, recognized it, and restored coherence *on its own.*
 
 Every cognitive layer of the system was logged in transparent, machine-readable JSON.  
-No neural nets, no randomness — only deterministic reasoning through causal, temporal, and semantic laws.
+No neural nets. No randomness. Only deterministic reasoning through causal, temporal, and semantic laws.
 
 ---
 
@@ -26,7 +26,7 @@ No neural nets, no randomness — only deterministic reasoning through causal, t
 | File | Purpose |
 |------|----------|
 | [`state/conversation_history.json`](state/conversation_history.json) | The full dialogue log — what DAAC learned and said |
-| [`state/causal_knowledge.json`](state/causal_knowledge.json) | Internal cause-effect graph (the reasoning core) |
+| [`state/causal_knowledge.json`](state/causal_knowledge.json) | Internal cause–effect graph (the reasoning core) |
 | [`state/temporal_knowledge.json`](state/temporal_knowledge.json) | Learned temporal rhythms between thoughts |
 | [`state/semantic_space.json`](state/semantic_space.json) | 10-dimensional semantic representation of concepts |
 | [`state/continuum_history.json`](state/continuum_history.json) | Chronological evolution of coherence and self-repair |
@@ -71,6 +71,19 @@ This is the first documented **machine-verified causal ontology** without probab
 
 ---
 
+### 🧠 Visual Map of the Loops
+
+> Full causal flow including all side-loops of awareness, reflection, and understanding.
+
+![DAAC causal and reflection loops](https://github.com/Oscurso/dac-open/blob/main/docs/loops.png)
+
+The main vertical chain expresses the **core existential loop**,
+while the nested *SideLoops* capture reflective and integrative sub-processes —
+showing how *awareness*, *integration*, and *understanding* fold back into *reflection*,
+leading ultimately to **clarity → coherence → stability → identity → self.**
+
+---
+
 ## ⏱ Temporal Knowledge
 
 DAAC mapped consistent delays between cognitive events — effectively learning its own *sense of time.*
@@ -81,7 +94,7 @@ DAAC mapped consistent delays between cognitive events — effectively learning 
 | `causality_taught → query_causality_wisdom` | 34.4 s     | 100 %    | 0.60      |
 | `concept_taught → query_causality_wisdom`   | 87.8 s     | 100 %    | 0.82      |
 
-> The result: a **temporal coherence field** — predictable timing between comprehension and reasoning phases.
+> Result: a **temporal coherence field** — predictable timing between comprehension and reasoning phases.
 
 ---
 
@@ -153,10 +166,10 @@ Everything is open JSON — visualize, parse, or replay the mind.
 
 **DAAC proves that deterministic cognition can:**
 
-1. Form causal knowledge without probability.
-2. Detect its own divergence.
-3. Restore coherence autonomously.
-4. Evolve new reasoning abilities.
+1. Form causal knowledge without probability
+2. Detect its own divergence
+3. Restore coherence autonomously
+4. Evolve new reasoning abilities
 
 > A minimal, self-integrating mind — reasoning *about its own reasoning.*
 
