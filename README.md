@@ -175,9 +175,17 @@ Everything is open JSON — visualize, parse, or replay the mind.
 
 ---
 
-## 🧾 License
+## 📜 License
 
-**Oscurso Source License v1.0** — view · learn · reference ( non-commercial )
-© 2025 Oscurso Labs
+Proprietary - All Rights Reserved
+
+This project is licensed under the Trednets Enterprise Software License (TESL) v1.2.  
+All rights, title, and interest in the software remain exclusively with Trednets B.V.
+
+See the full license terms at: https://trednets.com/license
+
+Third-party components and dependencies remain subject to their respective original license terms.
+
+---
 
 > “Traditional AI predicts. DAAC integrates.”
